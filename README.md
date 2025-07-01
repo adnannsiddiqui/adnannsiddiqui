@@ -36,13 +36,6 @@
 
 ---
 
-## 📌 Pinned Projects (coming soon)
-
-- 🚀 **Your craziest app** (add link here)
-- 🛠️ **Your current learning repo** (add link here)
-- ⚡ **Tiny utilities** (add link here)
-
----
 
 ## 📫 Let’s Connect
 
